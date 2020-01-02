@@ -1,2 +1,2 @@
 # py-game-
-Py gama
+First relase
