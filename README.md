@@ -1,4 +1,5 @@
 # py-game-
 First relase,
 It's just the classic guess the word written in python,
-Is designed to be played by 2 players
+Is designed to be played by 2 players,
+NO UI(I have just started)
