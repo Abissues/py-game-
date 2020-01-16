@@ -4,3 +4,4 @@ TO WORK NEEDS PYTHON INSTALLED(Tested on 3.7)
 It's just a collection of games written in python,
 Is designed to be played by 2 players,
 NO UI(I have just started programming)
+(plz send me suggestion to improve)
